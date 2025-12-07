@@ -1,0 +1,5 @@
+{
+  "name": "ClauseCraft AI",
+  "description": "A secure, offline-style legal contract analyzer that extracts clauses, assesses risks, and provides natural language explanations using local-session memory.",
+  "requestFramePermissions": []
+}
